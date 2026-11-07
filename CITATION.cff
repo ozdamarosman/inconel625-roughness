@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Sensor-based surface roughness prediction in Inconel 625 turning: validation leakage, measurement floor and uncertainty (analysis code)"
+authors:
+  - family-names: "Özdamar"
+    given-names: "Osman"
+    orcid: "https://orcid.org/0000-0001-6353-6812"
+    affiliation: "Bilecik Şeyh Edebali University, Osmaneli Vocational School of Higher Education"
+version: "1.0.0"
+date-released: "2026-11-07"
+license: MIT
+references:
+  - type: dataset
+    title: "A sensor based turning dataset for data-driven surface roughness estimation"
+    authors:
+      - family-names: "Harigovind"
+        given-names: "H."
+      - family-names: "Nair"
+        given-names: "B. B."
+      - family-names: "Sakthivel"
+        given-names: "N. R."
+    doi: "10.17632/ybyhxv4czd.3"
+    year: 2025
